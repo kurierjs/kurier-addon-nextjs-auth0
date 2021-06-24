@@ -1,6 +1,6 @@
 # `@kurier/addon-nextjs-auth0`
 
-Integrates authorization mechanisms provided by nextjs-auth0 into Kurier.
+Integrates authorization mechanisms provided by `@auth0/nextjs-auth0` into Kurier.
 
 ## Requirements
 
